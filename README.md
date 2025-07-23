@@ -10,8 +10,6 @@ A comprehensive project template for **vibe coding** in Cursor with pre-configur
 - [Vibe Coding Workflow](#-vibe-coding-workflow)
 - [Configuration](#-configuration)
 - [Documentation](#-documentation)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🚀 Quick Start
 
@@ -247,38 +245,3 @@ The template includes example configurations in `.cursor/.mcp.json.example`. Cop
 - **CLAUDE.md** - Claude Code specific workflows and commands
 - `.cursor/rules/` - Detailed coding rules and patterns
 - `.taskmaster/templates/` - PRD templates and examples
-
-## 📄 License
-
-MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-This template evolves with usage. The `meta_rules.mdc` enables self-improving patterns - rules automatically update based on emerging patterns in your codebase.
-
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
-
-## 🔗 Related Projects
-
-- [TaskMaster AI](https://github.com/your-org/task-master-ai) - The core task management system
-- [Cursor](https://cursor.sh/) - The AI-powered code editor this template is designed for
-
-## 🙏 Acknowledgments
-
-This template was inspired by several excellent resources in the AI development community:
-
-- **[Viktor Farcic's YouTube Automation](https://github.com/vfarcic/youtube-automation)** - Reference implementation of AI-powered development workflows
-- **[My Workflow With AI: How I Code, Test, and Deploy Faster Than Ever](https://devopstoolkit.live/ai/my-workflow-with-ai-how-i-code-test-and-deploy-faster-than-ever/)** - Comprehensive guide to AI-assisted development workflows by Viktor Farcic
-- **[AI Labs Video](https://www.youtube.com/watch?v=cAFIUiE_8DM)** - Insights on AI development practices and tooling
-
-These resources provided valuable insights into structuring AI-powered development workflows, MCP server integration, and best practices for vibe coding with AI assistants.
-
----
-
-**Happy vibe coding! 🎵✨**
